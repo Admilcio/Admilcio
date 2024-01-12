@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Addie</h1>
 <h3 align="center">A passionate full-stack web-developer who loves to create beautiful and functional websites.</h3>
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nqs46w1wpkui0d9clm3fswzon25sjsmaqfq804us&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</p>
-
 <h3 align="center">My progress in 42</h3>
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ada-mata" alt="ada-mata's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ada-mata" alt="ada-mata's 42 stats" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=admilcio&label=Profile%20views&color=0e75b6&style=flat" alt="admilcio" /> </p>
