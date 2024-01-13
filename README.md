@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C, C++**
 
-- 💬 Ask me about **Javascrip, React, web-development**
+- 💬 Ask me about **Javascrip, React, web-development, C**
 
 - 📫 How to reach me **admydamata@gmail.com**
 
